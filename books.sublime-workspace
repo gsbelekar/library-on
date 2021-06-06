@@ -1,0 +1,620 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"S",
+				"SELECT"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"f",
+				"form\tTag"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"t",
+				"text-align\tproperty"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"a",
+				"action"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"i",
+				"input\tTag"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"s",
+				"script\tTag"
+			],
+			[
+				"m",
+				"margin\tproperty"
+			],
+			[
+				"nab",
+				"navbar"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"User",
+				"username"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"backrou",
+				"background-image\tproperty"
+			],
+			[
+				"b",
+				"border-image\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"D",
+				"DIV\tTag"
+			],
+			[
+				"o",
+				"overflow\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"E",
+				"E-mail"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"inline",
+				"inline-flex"
+			],
+			[
+				"q",
+				"qid"
+			],
+			[
+				"Qu",
+				"questions"
+			],
+			[
+				"org",
+				"organizeby"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"ja",
+				"Jain"
+			],
+			[
+				"ch",
+				"Christian"
+			],
+			[
+				"PAD",
+				"padding-right"
+			],
+			[
+				"MARGI",
+				"margin-left"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"echo",
+				"echo\techo \"…\""
+			],
+			[
+				"CAS",
+				"caste"
+			],
+			[
+				"do",
+				"dob"
+			],
+			[
+				"mother",
+				"mothername"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"password",
+				"Password"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"Dele",
+				"DELETE"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"bro",
+				"browser"
+			],
+			[
+				"BACK",
+				"background-color"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"SESS",
+				"session_id"
+			],
+			[
+				"dae",
+				"date"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"co",
+				"contactno"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"or",
+				"organizeby"
+			],
+			[
+				"address",
+				"address"
+			],
+			[
+				"Contact",
+				"contactno"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/library/student/books.php",
+		"/C/xampp/htdocs/library/student/feedback.php",
+		"/C/xampp/htdocs/library/admin/index.php",
+		"/C/xampp/htdocs/library/admin/navbar.php",
+		"/C/xampp/htdocs/library/admin/student.php",
+		"/C/xampp/htdocs/library/admin/books.php",
+		"/C/xampp/htdocs/library/admin/admin_login.php",
+		"/C/xampp/htdocs/library/admin/registration.php",
+		"/C/xampp/htdocs/library/student/navbar.php",
+		"/C/Users/Rockey/Desktop/Library mngt system/librarymngt/style.css",
+		"/C/xampp/htdocs/library/student/student_login.php",
+		"/C/xampp/htdocs/library/student/footer.php",
+		"/C/xampp/htdocs/library/student/logout.php",
+		"/C/xampp/htdocs/library/student/index.php",
+		"/C/xampp/htdocs/library/student/connection.php",
+		"/C/xampp/htdocs/library/student/registration.php",
+		"/C/Users/Rockey/Desktop/Library mngt system/librarymngt/registration.html",
+		"/C/Users/Rockey/Desktop/Library mngt system/librarymngt/index.html",
+		"/C/Users/Rockey/Desktop/Library mngt system/librarymngt/student_login.html",
+		"/C/Users/Rockey/Desktop/Library mngt system/librarymngt/xyz.html",
+		"/C/xampp/htdocs/library/student/style.css",
+		"/C/Users/Rockey/Desktop/Bank 1/style.css",
+		"/C/Users/Rockey/Desktop/Bank 1/homepage.html",
+		"/C/Users/Rockey/Desktop/Bank 1/requestpin.html",
+		"/C/Users/Rockey/Desktop/Bank 1/login.html",
+		"/C/Users/Rockey/Desktop/Bank 1/depositemoney.html",
+		"/C/Users/Rockey/Desktop/Bank 1/createaccount.html",
+		"/C/Users/Rockey/Desktop/ONLINE BANK MNGT SYSTEM/New folder/hp.html",
+		"/C/Users/Rockey/Desktop/ONLINE BANK MNGT SYSTEM/New folder/createaccount.html",
+		"/C/Users/Rockey/Desktop/ONLINE BANK MNGT SYSTEM/New folder/login1.html",
+		"/C/Users/Rockey/Desktop/CalDemo.java",
+		"/C/xampp/htdocs/library/student/index.html",
+		"/C/Users/Rockey/Desktop/Library mngt system/librarymngt/ss.html",
+		"/C/Users/Rockey/Desktop/Library mngt system/librarymngt/registration.php",
+		"/C/Users/Rockey/Desktop/ONLINE BANK MNGT SYSTEM/New folder/dm.html",
+		"/C/Users/Rockey/Desktop/ONLINE BANK MNGT SYSTEM/ar.html",
+		"/C/Users/Rockey/Desktop/ONLINE BANK MNGT SYSTEM/checkb.html",
+		"/C/Users/Rockey/Desktop/ONLINE BANK MNGT SYSTEM/New folder/changepin1.html",
+		"/C/Users/Rockey/Desktop/ONLINE BANK MNGT SYSTEM/New folder/cqb.html",
+		"/C/Users/Rockey/Desktop/ONLINE BANK MNGT SYSTEM/New folder/transfermoney.html",
+		"/C/Users/Rockey/Desktop/ONLINE BANK MNGT SYSTEM/chequebook.html",
+		"/C/Users/Rockey/Desktop/ONLINE BANK MNGT SYSTEM/changepin.html",
+		"/C/Users/Rockey/Desktop/ONLINE BANK MNGT SYSTEM/login1.html",
+		"/C/Users/Rockey/Desktop/ONLINE BANK MNGT SYSTEM/cb1.html",
+		"/C/xampp/htdocs/bbl3/blooddonor.php",
+		"/C/Users/Rockey/Desktop/ONLINE BANK MNGT SYSTEM/atmrequest.html",
+		"/C/Users/Rockey/Desktop/ONLINE BANK MNGT SYSTEM/lib.html",
+		"/C/Users/Rockey/Desktop/ONLINE BANK MNGT SYSTEM/homepage.html",
+		"/C/Users/Rockey/Desktop/ONLINE BANK MNGT SYSTEM/checkbalance.html",
+		"/C/Users/Rockey/Desktop/ONLINE BANK MNGT SYSTEM/depositmoney1.html",
+		"/C/Users/Rockey/AppData/Roaming/Sublime Text 3/Packages/User/login1.html",
+		"/C/Users/Rockey/AppData/Roaming/Sublime Text 3/Packages/User/login.html",
+		"/C/Users/Rockey/AppData/Roaming/Sublime Text 3/Packages/User/cb1.html",
+		"/C/Users/Rockey/AppData/Roaming/Sublime Text 3/Packages/User/homepage.html",
+		"/C/Users/Rockey/AppData/Roaming/Sublime Text 3/Packages/User/atmrequest.html",
+		"/C/Users/Rockey/AppData/Roaming/Sublime Text 3/Packages/User/depositmoney1.html",
+		"/C/Users/Rockey/AppData/Roaming/Sublime Text 3/Packages/User/checkbookrequest.html",
+		"/C/Users/Rockey/AppData/Roaming/Sublime Text 3/Packages/User/depositmoney.html",
+		"/C/Users/Rockey/AppData/Roaming/Sublime Text 3/Packages/User/home.html",
+		"/C/Users/Rockey/AppData/Roaming/Sublime Text 3/Packages/User/signin.html",
+		"/C/Users/Rockey/AppData/Roaming/Sublime Text 3/Packages/User/home1.html",
+		"/C/Users/Rockey/Desktop/stack.c",
+		"/C/Users/Rockey/Documents/add.cpp",
+		"/D/Project/xamp/htdocs/bbl3/Login/regdonor.php",
+		"/C/Users/Rockey/Desktop/hello.c",
+		"/D/Java/awt/event/AdjustmentEvent.java",
+		"/D/Java/awt/event/ActionEvent.java",
+		"/D/Java/awt/ActiveEvent.java",
+		"/D/Java/awt/event/ComponentListener.java",
+		"/D/Java/awt/event/ContainerAdapter.java",
+		"/D/Java/util/EventListener.java",
+		"/D/Java/awt/event/AdjustmentListener.java",
+		"/D/Project/xamp/htdocs/bbl3/Login/donorhome/edit_profile.php",
+		"/D/Project/xamp/htdocs/bbl3/Login/forgotdonor.php",
+		"/D/Project/xamp/htdocs/bbl3/index1.php",
+		"/D/Project/xamp/htdocs/bbl3/Login/logindonor.php",
+		"/D/Project/xamp/htdocs/bbl3/Login/donorhome/change_pass.php",
+		"/D/Project/xamp/htdocs/bbl3/Login/donorhome/profile.php",
+		"/D/Project/xamp/htdocs/bbl3/Login/bbhome/bdcreg.php",
+		"/D/Project/xamp/htdocs/bbl3/css/header_cs.css",
+		"/D/Project/xamp/htdocs/bbl3/Login/bbhome/bloodstockupdate.php",
+		"/D/Project/xamp/htdocs/bbl3/Login/bbhome/change_pass.php",
+		"/D/Project/xamp/htdocs/bbl3/index.php",
+		"/D/Project/xamp/htdocs/bbl3/Login/bbhome/edit_profile.php",
+		"/D/Project/xamp/htdocs/bbl3/Login/bbhome/profile.php",
+		"/D/Project/xamp/htdocs/bbl3/Admin/admin.php",
+		"/D/Project/xamp/htdocs/bbl3/contact.php",
+		"/D/Project/xamp/htdocs/a1/check1.php",
+		"/F/AJP_For Student/Notes_AJP/Programs/ButtonList.java",
+		"/F/AJP_For Student/Notes_AJP/Programs/Dialog_Demo.java",
+		"/D/Project/xamp/htdocs/addmission/admin/header9.php",
+		"/D/Project/xamp/htdocs/addmission/admin/signin.php",
+		"/D/Project/xamp/htdocs/addmission/user/index.php",
+		"/D/Project/xamp/htdocs/addmission/user/header9.php",
+		"/D/Project/xamp/htdocs/addmission/header.php",
+		"/D/Project/xamp/htdocs/addmission/index1.php",
+		"/D/Project/xamp/htdocs/bbl3/header1.php",
+		"/D/Project/xamp/htdocs/a1/connect.php",
+		"/D/Project/xamp/htdocs/a1/quiz.php",
+		"/D/Project/xamp/htdocs/a1/check.php",
+		"/D/Project/xamp/htdocs/bbl3/Admin/footer.php",
+		"/D/Project/xamp/htdocs/bbl3/Admin/view_dn.php",
+		"/D/Project/xamp/htdocs/bbl3/Admin/view_que.php",
+		"/D/Project/xamp/htdocs/bbl3/Admin/view_bb.php",
+		"/D/Project/xamp/htdocs/bbl3/Admin/view_bdc.php",
+		"/D/Project/xamp/htdocs/bbl3/bloodbank.php",
+		"/D/Project/xamp/htdocs/bbl3/bloodcamp.php",
+		"/D/Project/xamp/htdocs/bbl3/Admin/header1.php",
+		"/D/Project/xamp/htdocs/bbl3/Admin/test.php",
+		"/D/Project/xamp/htdocs/bbl3/Login/bbhome/actbdcreg.php",
+		"/D/Project/xamp/htdocs/addmission/user/edit.php",
+		"/D/Project/xamp/htdocs/addmission/admin/change_pass.php",
+		"/D/Project/xamp/htdocs/addmission/user/css/forgot.css",
+		"/D/Project/xamp/htdocs/addmission/user/newadmission.php",
+		"/D/Project/xamp/htdocs/addmission/user/adddetails.php",
+		"/D/Project/xamp/htdocs/addmission/user/home.php",
+		"/D/Project/xamp/htdocs/addmission/user/actsignin.php",
+		"/D/Project/xamp/htdocs/addmission/user/change_pass.php",
+		"/D/Project/xamp/htdocs/addmission/admin/home.php",
+		"/D/Project/xamp/htdocs/addmission/admin/request.php",
+		"/D/Project/xamp/htdocs/addmission/admin/all.php",
+		"/D/Project/xamp/htdocs/addmission/admin/feesremainder.php",
+		"/D/Project/xamp/htdocs/addmission/admin/complet.php",
+		"/D/Project/xamp/htdocs/addmission/user/signout.php",
+		"/D/Project/xamp/htdocs/addmission/user/dashboard.php",
+		"/D/Project/xamp/htdocs/addmission2/user/dashboard.php",
+		"/D/Project/xamp/htdocs/addmission2/user/css/all.css",
+		"/D/Project/xamp/htdocs/addmission/admin/css/all.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "books.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
